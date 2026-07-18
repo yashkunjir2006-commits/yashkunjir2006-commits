@@ -62,10 +62,9 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashkunjir2006-commits&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkunjir2006-commits&layout=compact&theme=tokyonight" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashkunjir2006-commits&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkunjir2006-commits&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
-
 ---
 
 # 🔥 GitHub Streak
