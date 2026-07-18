@@ -21,6 +21,23 @@ Hi 👋, I'm Yash Kunjir
 ---
 
 ## 🛠 Tech Stack
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashkunjir2006-commits&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yashkunjir2006-commits&theme=tokyonight)
+
+---
+
+# 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkunjir2006-commits&layout=compact&theme=tokyonight)
 
 ### Programming Languages
 
