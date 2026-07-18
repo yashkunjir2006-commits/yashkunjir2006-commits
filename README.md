@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yash Kunjir</h1>
-
-<h3 align="center">
-AI & Machine Learning Enthusiast | Python Developer | B.Tech Student at MIT ADT University
-</h3>
+<h1 align="center">
+Hi 👋, I'm Yash Kunjir
+</h1>
 
 <p align="center">
-Passionate about building AI solutions, solving real-world problems, and continuously learning new technologies.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;B.Tech+Student;Future+Software+Engineer" />
+
 </p>
 
 ---
