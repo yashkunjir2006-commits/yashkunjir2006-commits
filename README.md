@@ -8,6 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=yashkunjir2006-commits&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550"/>
+</p>
+
 ---
 
 # 🚀 About Me
@@ -60,8 +64,6 @@
 ---
 # 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashkunjir2006-commits&theme=tokyonight" width="95%"/>
 </p>
@@ -75,12 +77,24 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashkunjir2006-commits&theme=tokyonight" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashkunjir2006-commits&theme=tokyonight&utcOffset=5.5" width="48%"/>
 </p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yashkunjir2006-commits&theme=tokyonight&row=1&column=7"/>
+</p>
+
 # 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yashkunjir2006-commits&theme=tokyonight"/>
 </p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkunjir2006-commits&theme=tokyo-night"/>
+</p>
 ---
 
 # 🚀 Featured Projects
@@ -133,24 +147,23 @@ An AI-powered platform that helps students with:
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/yash-kunjir-398608332">
-<img src="https://img.shields.io/badge/LinkedIn-Yash%20Kunjir-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:yashkunjir2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yashkunjir2006-commits">
-<img src="https://img.shields.io/badge/GitHub-yashkunjir2006--commits-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:yashkunjir2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
 ---
 
 # 💡 Quote
