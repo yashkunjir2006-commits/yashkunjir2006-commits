@@ -94,6 +94,11 @@
 
 Interactive educational web application built using **React**, **Three.js**, **Blender**, and **Tailwind CSS** to explore medicinal plants in a realistic 3D environment.
 
+🌱 Plant Encyclopedia with detailed medicinal properties and uses
+🕹️ Interactive 3D Walkable Garden built with Three.js / React Three Fiber
+🎮 Gamified Quiz System to test plant knowledge
+🔥 Firebase Integration for backend data and authentication
+📄 Full PRD (Product Requirements Document) created to guide development
 ---
 
 ## 🤖 AI & Machine Learning Internship
