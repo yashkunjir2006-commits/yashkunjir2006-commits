@@ -159,7 +159,7 @@ An AI-powered platform that helps students with:
 
 # 💡 Quote
 
-> **"Success comes from continuous learning, consistent practice, and building solutions that create real-world impact."**
+> **""Build. Learn. Improve. Repeat.""**
 
 ---
 
