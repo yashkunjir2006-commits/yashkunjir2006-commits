@@ -58,6 +58,12 @@
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
+# 📊 GitHub Statistics
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashkunjir2006-commits&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashkunjir2006-commits&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashkunjir2006-commits&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashkunjir2006-commits&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashkunjir2006-commits&theme=tokyonight&utcOffset=0)
 
 # 🔥 GitHub Streak
 
