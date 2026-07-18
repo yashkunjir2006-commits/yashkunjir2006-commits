@@ -59,12 +59,22 @@
 
 ---
 # 📊 GitHub Statistics
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashkunjir2006-commits&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashkunjir2006-commits&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashkunjir2006-commits&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashkunjir2006-commits&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashkunjir2006-commits&theme=tokyonight&utcOffset=0)
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashkunjir2006-commits&theme=tokyonight" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashkunjir2006-commits&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashkunjir2006-commits&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashkunjir2006-commits&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashkunjir2006-commits&theme=tokyonight&utcOffset=5.5" width="48%"/>
+</p>
 # 🔥 GitHub Streak
 
 <p align="center">
