@@ -74,11 +74,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashkunjir2006-commits&theme=tokyonight&utcOffset=5.5" width="48%"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yashkunjir2006-commits&theme=tokyonight&row=1&column=7"/>
-</p>
 
 # 🔥 GitHub Streak
 
