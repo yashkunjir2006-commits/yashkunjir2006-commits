@@ -8,10 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=yashkunjir2006-commits&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550"/>
-</p>
-
 ---
 
 # 🚀 About Me
