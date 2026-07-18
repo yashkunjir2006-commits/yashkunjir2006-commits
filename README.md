@@ -159,7 +159,7 @@ An AI-powered platform that helps students with:
 
 # 💡 Quote
 
-> **""Build. Learn. Improve. Repeat.""**
+> ** " Build. Learn. Improve. Repeat."  **
 
 ---
 
