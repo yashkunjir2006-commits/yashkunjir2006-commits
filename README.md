@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Kunjir</h1>
 
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;B.Tech+Student+at+MIT+ADT+University;Future+Software+Engineer" />
 </p>
