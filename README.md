@@ -62,17 +62,12 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashkunjir2006-commits&theme=tokyonight" width="95%"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashkunjir2006-commits&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkunjir2006-commits&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashkunjir2006-commits&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashkunjir2006-commits&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashkunjir2006-commits&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashkunjir2006-commits&theme=tokyonight&utcOffset=5.5" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=yashkunjir2006-commits&theme=tokyonight&hide_border=true"/>
 </p>
 
 
@@ -84,9 +79,7 @@
 
 ## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkunjir2006-commits&theme=tokyo-night"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkunjir2006-commits&theme=tokyo-night&hide_border=true"/>
 ---
 
 # 🚀 Featured Projects
